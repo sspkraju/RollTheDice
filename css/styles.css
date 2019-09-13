@@ -20,9 +20,10 @@ img{ width: 35%;}
 
 h1,.btn{ padding: 2% 2%;
     font-family: 'Orbitron', sans-serif; 
-    font-size: 5rem;
+    font-size: 4rem;
     color: #700961;
-    margin: 3% 1%;}
+    margin: 3% 1%;
+    font-weight: bolder;}
     
     h2{ font-family: 'Audiowide', cursive;
     font-size: 4rem;
