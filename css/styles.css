@@ -1,0 +1,43 @@
+body{ text-align: center;
+      background-color: #222831;}
+      
+.main{ background-color: #00adb5;
+       border-style: groove;
+       Padding: 1% 4% 6% 4%;
+       margin: 8% 10%; }
+
+
+.dice1{ 
+               position: relative;
+               left: 15%;
+               }
+.dice2 { 
+               position: relative;
+               right : 15%;
+               }
+              
+img{ width: 35%;}
+
+h1,.btn{ padding: 1% 1%;
+    font-family: 'Orbitron', sans-serif; 
+    font-size: 3rem;
+    color: #700961;
+    margin: 3% 1%;}
+    
+    h2{ font-family: 'Audiowide', cursive;
+    font-size: 4rem;
+    color: #d01257;
+    }
+    
+h3{ padding: 1% 1%;
+    font-family: 'Special Elite', cursive;
+    font-size: 2rem;
+    font-weight: bolder;}
+
+@media (max-width: 1028px) {
+	
+	.dice1{ left: 0;
+              }  
+    .dice2{ right: 0;
+              }  
+       }
