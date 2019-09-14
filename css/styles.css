@@ -10,10 +10,12 @@ body{ text-align: center;
 .dice1{ 
                position: relative;
                left: 15%;
+               padding: 1% 1%;
                }
 .dice2 { 
                position: relative;
                right : 15%;
+               padding: 1% 1%;
                }
               
 img{ width: 50%;}
