@@ -29,5 +29,6 @@ document.addEventListener("keypress", function(event){
 	roll();};
 });
 
+document.querySelector("img").addEventListener("click", roll);
 
 
