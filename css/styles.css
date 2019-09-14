@@ -18,7 +18,7 @@ body{ text-align: center;
               
 img{ width: 50%;}
 
-h1,.btn{ padding: 2% 2%;
+h1,.btn{ padding: 4% 2%;
     font-family: 'Orbitron', sans-serif; 
     font-size: 4rem;
     color: #E0F7FA;
@@ -28,7 +28,7 @@ h1,.btn{ padding: 2% 2%;
     h2{ font-family: 'Audiowide', cursive;
     font-size: 4rem;
     color: #d01257;
-    }
+    padding: 1% 1%;}
     
 h3{ padding: 1% 1%;
     font-family: 'Special Elite', cursive;
