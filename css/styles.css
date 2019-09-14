@@ -2,7 +2,7 @@ body{ text-align: center;
       background-color: #5499C7;}
       
 .main{ background-color: #222831;
-       border-style: groove;
+       border-style: 2px groove;
        Padding: 3% 4% 10% 4%;
        margin: 8% 10%; }
 
